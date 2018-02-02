@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+}
+
+#header {
+  background: #00BFFF;
+  color: black;
+  padding: 20px;
+  font-size: 30px;
+  border-radius: 8px;
+  text-align: center;
+}
+
+#avatar {
+  height: 50px;
+  width: 50px;
+  vertical-align: middle;
+  border-radius: 5px;
+  -webkit-box-shadow: 4px 4px 12px 0px rgba(138,138,138,1);
+  -moz-box-shadow: 4px 4px 12px 0px rgba(138,138,138,1);
+  box-shadow: 4px 4px 12px 0px rgba(138,138,138,1);
+}
+
+.red
+{
+    background-color:#00BFFF;
+}
